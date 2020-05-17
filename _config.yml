@@ -43,6 +43,7 @@ paginate_path: "page/:num"
 sidebar_home_link: true
 excerpt_separator: <!--more-->
 
+google_analytics: true
 version: 1.0
 
 # Exclude from processing.
