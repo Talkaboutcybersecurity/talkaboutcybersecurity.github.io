@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+    <main class="cd-main-content">
+		<nav class="cd-side-nav">
+            {% include sidebar.html %}
+        </nav>
+
+        <div class="content-wrapper">
+            {{ content }}
+        </div>
+    </main>
+	<script src="/assets/js/jquery-3.5.1.min.js"></script>
+	<script src="/assets/js/jquery.menu-aim.min.js"></script>
+	<script src="/assets/js/main.min.js"></script>
+  </body>
+</html>

@@ -1,0 +1,35 @@
+<div class="sidebar-about">
+    <h1>
+        <img id="site-logo" src="/assets/icon/logo.png" alt="logo" title="logo" />
+        <a class="sidebar-title" href="/">
+        {{ site.title }}
+        </a>
+    </h1>
+    <p class="lead">{{ site.tagline }}</p>
+</div>
+
+<ul>
+    <li class="{% if page.url == '/' %}active{% endif %}">
+        <a href="/">Home</a>
+    </li>
+    {% assign pages_list = site.pages %}
+    {% for node in pages_list %}
+        {% if node.title != null %}
+            {% if node.layout == "page" or node.layout == "archive" %}
+                <li class="{% if page.url == node.url %}active{% endif %}">
+                    <a href="{{ node.url }}">{{ node.title }}</a>
+                </li>
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+</ul>
+
+<div class="sidebar-social">
+<ul>
+	<li><a href="mailto:phu.nguyen@owasp.org" title="Gmail" target="_blank"><img title="Gmail" alt="Gmail" src="/assets/icon/gmail.png" /></a></li>
+	<li><a href="https://github.com/Talkaboutcybersecurity" title="Github" target="_blank"><img title="Github" alt="Github" src="/assets/icon/github.png" /></a></li>
+	<li><a href="https://www.linkedin.com/in/phu-nguyen-486333106/" title="LinkedIn" target="_blank"><img title="LinkedIn" alt="LinkedIn" src="/assets/icon/linkedin.png" /></a></li>
+	<li><a href="/feed.xml" title="RSS" target="_blank"><img title="RSS" alt="RSS" src="/assets/icon/feed.png" /></a></li>
+</ul>
+</div>
+<p class="sidebar-copyright">&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
