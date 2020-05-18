@@ -20,8 +20,7 @@
 
 title: Talk about Cyber Security
 email: phu.nguyen@owasp.org
-description: >- # this means to ignore newlines until "baseurl:"
-  Make it professional
+description: Talk about Cyber Security - Make it professional
 baseurl: "/" # the subpath of your site, e.g. /blog
 root: /
 url: "https://talkaboutcybersecurity" # the base hostname & protocol for your site, e.g. http://example.com
@@ -30,21 +29,21 @@ github_username: crazykid95
 tagline: Make it professional
 author: Tony
 
-# Build settings
-theme: jekyll-theme-hydeout
-remote_theme: fongandrew/hydeout
+
 plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-remote-theme
+  - jekyll-redirect-from
+  - jekyll-archives
 
-paginate: 5
+paginate: 10
 paginate_path: "page/:num"
 sidebar_home_link: true
 excerpt_separator: <!--more-->
 
 google_analytics: true
-version: 1.0
+version: 1.1
 
 # Exclude from processing.
 # The following items will not be processed, by default.
