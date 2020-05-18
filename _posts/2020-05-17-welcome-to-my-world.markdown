@@ -21,6 +21,6 @@ Because the articles on this site are derived from my notes, so it's no surprise
 
 Through this website, I also want to share my projects with the community, projects that I have completed or are still working on. Sometimes I will share ideas that I haven't had time to implement so that anyone in the community who finds it interesting can help me realize those ideas. I'm a person with a lot of ideas, but because of time or because I'm too lazy to complete all of them.
 
-For what helped me create this site, I would like to thank [Pixis (Hackndo)](https://en.hackndo.com/) - one of my favorite cybersecurity blogs, since most of the custom template from my website has been implemented based on the front end of Hackndo. The logo of my website is created by [PlaceIt](https://placeit.net/). And of course, this entire website is built on the [jekyll](https://jekyllrb.com/) with a customized template from [Hydeout](https://github.com/fongandrew/hydeout) template.
+For what helped me create this site, I would like to thank [Pixis (Hackndo)](https://en.hackndo.com/) - one of my favorite cybersecurity blogs, since most of the custom template from my website has been implemented based on the front end of Hackndo. The logo of my website is created by [PlaceIt](https://placeit.net/). And of course, this entire website is built on the [jekyll](https://jekyllrb.com/).
 
 Lastly, I want to thank you for visiting my website. Hope you will have a good experience with it.
