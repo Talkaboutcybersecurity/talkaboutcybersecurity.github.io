@@ -4,7 +4,7 @@ author: "Tony"
 permalink: 2020/05/welcome/
 title:  "Welcome to My World"
 date:   2020-05-17 18:00:13 +0700
-categories: jekyll update
+categories: Welcome
 description: "Welcome to Talk about Cyber Security. This website is the result of an idea that came to my mind long time ago, the main purpose is to store my notes about everything in my life and work"
 cover: "assets/img/2020/05/hello.png"
 tags:
