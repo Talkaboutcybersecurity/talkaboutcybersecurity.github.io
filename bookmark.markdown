@@ -5,18 +5,18 @@ permalink: /bookmark/
 sidebar_link: true
 ---
 
-### [HacknDo](https://en.hackndo.com){:target="blank"}
++ ### [HacknDo](https://en.hackndo.com){:target="blank"}
 
 Hackndo - Cool blog about computer security (Active Directory security focused). One of my favorite blogs. You can find very good and easy-to-understand technical articles about NTLM Relay, Kerberos Delegation, Kerberoasting or Pass the Hash in this blog.
 
-### [Rastamouse Blog and Youtube channel](https://rastamouse.me){:target="blank"}
++ ### [Rastamouse Blog and Youtube channel](https://rastamouse.me){:target="blank"}
 
 A personal blog by Daniel Duggan - Director of Zero-Point Security and author of Red Team Ops course and RastaLabs (Hackthebox VIP lab). He also has a youtube channel at [https://www.youtube.com/channel/UC4POMTmsuQKrYZQsreYDlLQ](https://www.youtube.com/channel/UC4POMTmsuQKrYZQsreYDlLQ) on his journey to create SharpC2.
 
-### [Red Team Notes](https://dmcxblue.gitbook.io/red-team-notes){:target="blank"}
++ ### [Red Team Notes](https://dmcxblue.gitbook.io/red-team-notes){:target="blank"}
 
-A good notes for Red team.
+A good notebook for Red team.
 
-### [Red team Village](https://redteamvillage.io){:target="blank"}
++ ### [Red team Village](https://redteamvillage.io){:target="blank"}
 
 A community that you would definitely want to join if you are a Red team. You can follow Red team Village at [Website](https://redteamvillage.io), [Youtube channel](https://www.youtube.com/channel/UC8nq3PX9coMiqgKH6fw-VCQ), [Twitter](https://twitter.com/VillageRedTeam) or [Discord](https://RedTeamVillage.io/discord).
