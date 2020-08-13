@@ -17,6 +17,10 @@ A personal blog by Daniel Duggan - Director of Zero-Point Security and author of
 
 A good notebook for Red team.
 
++ ### [Red Teaming Experiments](https://www.ired.team/offensive-security/defense-evasion/parent-process-id-ppid-spoofing){:target="blank"}
+
+Another good notebook for Red team.
+
 + ### [Red team Village](https://redteamvillage.io){:target="blank"}
 
 A community that you would definitely want to join if you are a Red team. You can follow Red team Village at [Website](https://redteamvillage.io), [Youtube channel](https://www.youtube.com/channel/UC8nq3PX9coMiqgKH6fw-VCQ), [Twitter](https://twitter.com/VillageRedTeam) or [Discord](https://RedTeamVillage.io/discord).
