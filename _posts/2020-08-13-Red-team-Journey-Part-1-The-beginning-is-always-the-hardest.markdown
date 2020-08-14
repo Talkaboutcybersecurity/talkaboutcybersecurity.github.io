@@ -21,7 +21,7 @@ I just finished building my little red team with a lot of results after more tha
 
 ## The first mission
 
-At the end of 2018, I accepted an offer for a new job. From being a red team member, I became a leader of red team. My initial mission was to build a small group of people with the skills to `actively` and `continuously`  detect threat `from outside` for my customers. Possible taks include warning about data breaches, vulnerabilities that exist on external application that can lead to a serious incident, up to early warning of any threats we may know.
+At the end of 2018, I accepted an offer for a new job. From being a red team member, I became a leader of red team. My initial mission was to build a small group of people with the skills to `actively` and `continuously`  detect threat `from outside` for my clients. Possible taks include warning about data breaches, vulnerabilities that exist on external application that can lead to a serious incident, up to early warning of any threats we may know.
 
 What is the problem here? In addition to working with limited resources in the early days, I also had to quickly finish recruiting the first members. Because we  have to complete the mission of quickly localize and identify major potential threats first. I don't want to face a serious incident as soon as I take over, which is why we have to detect and resolve them early.
 
@@ -49,11 +49,11 @@ So my team has 3 permanent members along with 1 non-permanent member. We worked 
 
 ### Action
 
-During the first year, I encourage members to hunting that are not limited to scope. Their mission is to work as a bug bounty hunter to look for any weaknesses that could be exploited from outside. In less than a year we discovered and warned thousands of critical security vulnerabilities for our customers, quickly reducing the attack surface. Through reports that are sent out on a regular basis, my customers have come to pay more attention to establishing processes, regulations and methods for better defense. especially the management of public information technology assets and management of vulnerabilities.
+During the first year, I encourage members to hunting that are not limited to scope. Their mission is to work as a bug bounty hunter to look for any weaknesses that could be exploited from outside. In less than a year we discovered and warned thousands of critical security vulnerabilities for our clients, quickly reducing the attack surface. Through reports that are sent out on a regular basis, my clients have come to pay more attention to establishing processes, regulations and methods for better defense. especially the management of public information technology assets and management of vulnerabilities.
 
-In addition to using the red team, I also have an internal bug bounty program where any other team in the company can report if a security issue related to the customer is found. All such reports will be verified by the red team and alerted to customers.
+In addition to using the red team, I also have an internal bug bounty program where any other team in the company can report if a security issue related to the client is found. All such reports will be verified by the red team and alerted to clients.
 
-With that said, we also have a Penetration testing team that is independent of the red team to make it possible for our customers to use the tenetration testing service to further examine each of their systems.
+With that said, we also have a Penetration testing team that is independent of the red team to make it possible for our clients to use the tenetration testing service to further examine each of their systems.
 
 ### Defect
 
@@ -67,7 +67,7 @@ Fortunately, in the first year besides implementing my first plan, I also prepar
 
 In the second year I quickly built a second red team, this red team focused more on what the first red team couldn't do. The second red team consists of more skilled individuals who can solve complex problems. They focus on `advanced persistent threat simulation and malware research`.  Besides the members of the second red team are too familiar with the development of security applications (this is also one of my favorites), so we are also tasked with `developing tools and system to automate jobs`.
 
-As for the first red team, I kept them preparing for new clients. For old customers, they will work as a reconnaissance team. They are especially useful when with their long experience they often help us to easily achieve initial compromise.
+As for the first red team, I kept them preparing for new clients. For old clients, they will work as a reconnaissance team. They are especially useful when with their long experience they often help us to easily achieve initial compromise.
 
 ## Conclusion
 
