@@ -35,4 +35,4 @@ Active Directory & Enterprise Security, Methods to Secure Active Directory, Atta
 
 + ### [harmj0y](https://www.harmj0y.net/blog)
 
-harmj0y blog
+harmj0y blog. he is an offensive engineer and red teamer who works for SpecterOps and formerly worked for Veris Group’s Adaptive Threat Division. He is also the co-founder/active developer of many famous tools like Empire, BloodHound, PowerView, Veil-Framework.
