@@ -23,7 +23,7 @@ email: phu.nguyen@owasp.org
 description: Talk about Cyber Security - Make it professional
 baseurl: "/" # the subpath of your site, e.g. /blog
 root: /
-url: "https://talkaboutcybersecurity" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://talkaboutcybersecurity.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: crazykid95
 tagline: Make it professional
