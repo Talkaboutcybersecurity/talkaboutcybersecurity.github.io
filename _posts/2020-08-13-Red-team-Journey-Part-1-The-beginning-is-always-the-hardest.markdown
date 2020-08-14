@@ -62,7 +62,7 @@ Of course, with the use of human resources above, the strategy focusing on the p
 
 If you remember, I said that the first year I encouraged the members to work as bounty hunters. What do you think is acting as a bounty hunter in a very large scope? That is the omission of vulnerabilities. They can only focus on a few goals at a time, and they will miss the rest. If they don’t want that to happen, they have to develop automated scanning and tracking systems, which we call bots. However, I remind you that they don’t like programming even when I keep encouraging them.
 
-### Feature
+### Roadmap
 
 Fortunately, in the first year besides implementing my first plan, I also prepared a plan for the next year, which I am working on.
 In the second year, I quickly built a second red team, second red team focused more on what the first red team couldn’t do. The second red team consists of more skilled individuals who can solve complex problems. They focus on `advanced persistent threat simulation and malware research`. Members of the second red team are too familiar with the development of security applications, so they are also tasked with `developing tools and systems to automate jobs`.
