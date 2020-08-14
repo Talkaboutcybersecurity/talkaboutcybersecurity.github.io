@@ -32,3 +32,7 @@ The Password Village From DEFCON. They have a series of articles on cracking 101
 + ### [Active Directory Security](https://adsecurity.org/)
 
 Active Directory & Enterprise Security, Methods to Secure Active Directory, Attack Methods & Effective Defenses, PowerShell, Tech Notes, & Geek Trivia…
+
++ ### [harmj0y](https://www.harmj0y.net/blog)
+
+harmj0y blog
