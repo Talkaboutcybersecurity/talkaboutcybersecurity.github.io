@@ -24,3 +24,11 @@ Another good notebook for Red team.
 + ### [Red team Village](https://redteamvillage.io){:target="blank"}
 
 A community that you would definitely want to join if you are a Red team. You can follow Red team Village at [Website](https://redteamvillage.io), [Youtube channel](https://www.youtube.com/channel/UC8nq3PX9coMiqgKH6fw-VCQ), [Twitter](https://twitter.com/VillageRedTeam) or [Discord](https://RedTeamVillage.io/discord).
+
++ ### [Cracking 101](https://passwordvillage.org/){:target="blank"}
+
+The Password Village From DEFCON. They have a series of articles on cracking 101 that describe everything you need to know about cracking professionally from preparing the necessary hardware to the method and principles.
+
++ ### [Active Directory Security](https://adsecurity.org/)
+
+Active Directory & Enterprise Security, Methods to Secure Active Directory, Attack Methods & Effective Defenses, PowerShell, Tech Notes, & Geek Trivia…
