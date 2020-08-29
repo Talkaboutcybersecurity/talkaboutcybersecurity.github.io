@@ -11,7 +11,7 @@ Hackndo - Cool blog about computer security (Active Directory security focused).
 
 + ### [Rastamouse Blog and Youtube channel](https://rastamouse.me){:target="blank"}
 
-A personal blog by Daniel Duggan - Director of Zero-Point Security and author of Red Team Ops course and RastaLabs (Hackthebox VIP lab). He also has a youtube channel at [https://www.youtube.com/channel/UC4POMTmsuQKrYZQsreYDlLQ](https://www.youtube.com/channel/UC4POMTmsuQKrYZQsreYDlLQ) on his journey to create SharpC2.
+A personal blog by Daniel Duggan - Director of Zero-Point Security and author of Red Team Ops course and RastaLabs (Hackthebox VIP lab). He also has a youtube channel at [Youtube channel](https://www.youtube.com/channel/UC4POMTmsuQKrYZQsreYDlLQ) on his journey to create SharpC2.
 
 + ### [Red Team Notes](https://dmcxblue.gitbook.io/red-team-notes){:target="blank"}
 
@@ -35,4 +35,12 @@ Active Directory & Enterprise Security, Methods to Secure Active Directory, Atta
 
 + ### [harmj0y](https://www.harmj0y.net/blog)
 
-harmj0y blog. he is an offensive engineer and red teamer who works for SpecterOps and formerly worked for Veris Group’s Adaptive Threat Division. He is also the co-founder/active developer of many famous tools like Empire, BloodHound, PowerView, Veil-Framework.
+Harmj0y blog. he is an offensive engineer and red teamer who works for SpecterOps and formerly worked for Veris Group’s Adaptive Threat Division. He is also the co-founder/active developer of many famous tools like Empire, BloodHound, PowerView, Veil-Framework.
+
++ ### [Hausec](https://hausec.com/)
+
+Hausec blog, he is a current consultant and red teamer with SpecterOps.
+
++ ### [Vincent Yiu - Red Team Tips](https://vincentyiu.com/red-team-tips)
+
+Good Red Team Tips.
