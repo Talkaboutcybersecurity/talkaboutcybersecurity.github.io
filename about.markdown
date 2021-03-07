@@ -7,7 +7,7 @@ sidebar_link: true
 
 ## About my blog
 
-Welcome to `Talk about Cyber Security website.` This website is the result of an idea that came to my mind a long time ago. The primary purpose is to store my notes about everything in my life and work. You can find my knowledge, thoughts, and opinions through the articles on this site. But I also hope that the experience in some of my notes can help someone or make someone feel like reading them. That is why this website was born. Please read the article [Welcome to My World](/2020-05-17-welcome-to-my-world) for a better understanding.
+Welcome to `Talk about Cyber Security website.` This website is the result of an idea that came to my mind a long time ago. The primary purpose is to store my notes about everything in my life and work. You can find my knowledge, thoughts, and opinions through the articles on this site. But I also hope that the experience in some of my notes can help someone or make someone feel like reading them. That is why this website was born. Please read the article [Welcome to My World](/2020/05/welcome/) for a better understanding.
 
 ## Who am I
 
